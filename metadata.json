@@ -1,0 +1,6 @@
+{
+  "name": "Crestline Dental Voice Desk",
+  "description": "Real-time Gemini Live voice AI scheduling and Google Calendar sync for dental clinic patient appointments.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
